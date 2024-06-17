@@ -1,3 +1,3 @@
 # JUPYTER
-TODO LO HECHO EN JUPYTER ESTA AQUI
-El codigo aun le faltan añadir cosas y detallarlo disculpe las molestias profe esta noche lo termino :(
+La segunda evaluacion tiene como nombre eval_2_CN en la carpeta jupyter
+y la asigancion se encuentra en la misma carpeta
